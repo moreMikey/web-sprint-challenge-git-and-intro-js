@@ -242,10 +242,16 @@ Use copy to do the following:
 🌟 EXAMPLE of return: ["Amedeo Modigliani", "Vasiliy Kandinskiy", "Diego Rivera"....]
 */
 
-function listOfNames(/*Your Code Here*/) {
-  /*Your Code Here*/
-}
+function listOfNames(AmedeoMidigliani, id0, VasiliyKandinskiy, id1, DiegoRivera, id2, ClaudeMonet, id3, ReneMagritte, id4, SalvadorDali, id5, EdouardManet, id6, AndreiRublev, id7, 
+  VincentvanGough, id8, GustavKlimt, id9, HieronymusBosch, id10, KazimirMalevich, id11, MikhailVrubel, id12, PabloPicasso, id13, PeterPaulRubens, id14, PierreAugusteRenoir, id15, 
+  FranciscoGoya, id16, FridaKahlo, id17, ElGreco, id18, AlbrechtDürer, id19 ) { 
+    return ["Amedeo Modigliani", "Vasiliy Kandinskiy", "Diego Rivera", "Claude Monet", "Rene Magritte", "Salvador Dali", "Edouard Manet", "Andrei Rublev", "Vincent van Dough", 
+    "Gustav Klimt", "Hieronymus Bosch", "Kazimir Malevich", "Mikhail Vrubel", "Pablo Picasso", "Peter Paul Rubens", "Pierre-Auguste Renoir", "Francisco Goya", "Frida Kahlo", "El Greco", 
+    "Albrecht Dürer"]  ;AmedeoMidigliani ;id0 ;VasiliyKandinskiy ;id1 ;DiegoRivera ;id2 ;ClaudeMonet ;id3 ;ReneMagritte ;id4 ;SalvadorDali ;id5 ;EdouardManet ;id6 ;AndreiRublev ;id7
+    ;VincentvanGough ;id8 ;GustavKlimt ;id9 ;HieronymusBosch ;id10 ;KazimirMalevich ;id11 ;MikhailVrubel ;id12 ;PabloPicasso ;id13 ;PeterPaulRubens ;id14 ;PierreAugusteRenoir ;id15
+    ;FranciscoGoya ;id16 ;FridaKahlo ;id17 ;ElGreco ;id18 ;AlbrechtDürer ;id19 }
 
+  
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
